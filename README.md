@@ -4,4 +4,9 @@ A collection of my Python learning progress based on the 30DaysOfPython reposito
 This repository includes my notes, exercises, and several improved explanations, tables, and examples to make the concepts clearer and more beginner-friendly.
 
 DAY-1 : Basic operations, variables, data types and syntaxes
-DAY-2 : Execution programs for default functions
+
+DAY-2 : Execution programs for built-in functions
+
+
+
+  
