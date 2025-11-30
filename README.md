@@ -7,6 +7,7 @@ DAY-1 : Basic operations, variables, data types and syntaxes
 
 DAY-2 : Execution programs for built-in functions
 
+DAY-3 : Arithmetic, Assignment Comparision, logical, identity, memebership and bitwise operators
 
 
   
