@@ -15,4 +15,7 @@ DAY-5 : List and some practice excerises on lists
 
 DAY-6 : Tuples
 
+DAY-7 : Sets and practice execises on sets
+
+
   
