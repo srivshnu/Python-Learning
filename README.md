@@ -12,4 +12,7 @@ DAY-3 : Arithmetic, Assignment Comparision, logical, identity, memebership and b
 DAY-4 : Strings and String built-in functions
 
 DAY-5 : List and some practice excerises on lists
+
+DAY-6 : Tuples
+
   
