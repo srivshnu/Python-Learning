@@ -17,5 +17,9 @@ DAY-6 : Tuples
 
 DAY-7 : Sets and practice execises on sets
 
+DAY-8 : Dictionaries
+
+DAY-9 : Conditionals
+
 
   
