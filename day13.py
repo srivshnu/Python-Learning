@@ -3,7 +3,7 @@
 # -------------------------------------------------------------
 # Example 1: Convert string to list of characters
 # -------------------------------------------------------------
-
+import math
 language = "Python"
 chars = [c for c in language]
 
@@ -26,7 +26,7 @@ pairs = [(i, i * i) for i in range(11)]
 evens = [i for i in range(21) if i % 2 == 0]
 odds = [i for i in range(21) if i % 2 != 0]
 
-prime=[j for j in range(2,100) if all(j%d!=0 for d in range(2,int(j/2)+1))]
+prime=[j for j in range(2,100) if all(j%d!=0 for d in range(2,int(sqrt(j))+1))]
 comp= [j for j in range(4,100) if (j not in prime)] 
 
 nums = [-8, -7, -3, -1, 0, 1, 3, 4, 5, 7, 6, 8, 10]
@@ -76,4 +76,5 @@ def power(x):
     return lambda n: x ** n
 
 # power(2)(3) → 8
+
 # power(2)(5) → 32
