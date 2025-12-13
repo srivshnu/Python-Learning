@@ -30,5 +30,7 @@ DAY-12 : Modules
 
 DAY-13 : List Comprehension
 
-DAY-14 : Higher Order Functions
+DAY-14 : Python Errors
+
+DAY-15 : Higher Order Functions
 
