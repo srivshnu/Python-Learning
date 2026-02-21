@@ -37,3 +37,5 @@ DAY-15 : Higher Order Functions
 DAY-16 : Date and Time with Python
 
 DAY-17 : Exceptional Handling and Data Utilities
+
+DAY-18 : Regular Expressions (re MODULE)
