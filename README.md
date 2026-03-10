@@ -42,4 +42,6 @@ DAY-18 : Regular Expressions (re MODULE)
 
 DAY-19 : Python File Handling
 
+DAY-20 : Python Package Mangement
+
 DAY-21 : Classes and Objects
