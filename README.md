@@ -48,4 +48,4 @@ DAY-21 : Classes and Objects
 
 DAY-22 : Web Scrapping
 
-DAY-23 : Virtuual Environment
+DAY-23 : Virtual Environment
