@@ -51,3 +51,5 @@ DAY-22 : Web Scrapping
 DAY-23 : Virtual Environment
 
 DAY-24 : Statistics
+
+DAY-25 : Pandas
