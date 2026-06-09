@@ -53,3 +53,5 @@ DAY-23 : Virtual Environment
 DAY-24 : Statistics
 
 DAY-25 : Pandas
+
+DAY-26 : Web Development
