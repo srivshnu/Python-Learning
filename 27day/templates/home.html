@@ -1,0 +1,16 @@
+{% extends 'layout.html' %} 
+
+{% block content %}
+<div class="container">
+  <h1>Welcome to {{ name }}</h1>
+  <p>
+    This application cleans text payloads and analyzes the underlying words, token counts, and 
+    frequent string patterns. Access the tooling via the Text Analyzer tab.
+  </p>
+  <ul class="tech-lists">
+    {% for tech in techs %}
+    <li class="tech">{{ tech }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
