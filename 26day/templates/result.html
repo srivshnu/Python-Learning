@@ -1,0 +1,9 @@
+{% extends 'layout.html' %} 
+
+{% block content %}
+<div class="container">
+  <h1>Analysis Complete</h1>
+  <p>Data successfully received and processed by the backend engine.</p>
+  <a href="{{ url_for('post') }}" class="btn">Analyze Another Text</a>
+</div>
+{% endblock %}
